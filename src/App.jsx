@@ -21,7 +21,7 @@ function App() {
       </main>
       <main>
         <section id="core-concepts">
-          <h2>Core Conceptes</h2>
+          <h2>Core Conceptes 2</h2>
           <ul>
             <CoreConept img={Components} title="zain" desc='this is the description of the function' />
             <CoreConept img={State} title="Arham" desc='this is the description of second'  />
